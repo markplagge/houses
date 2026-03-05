@@ -25,5 +25,7 @@
 | [Terra Bella](https://www.flexmls.com/share/DYLnl/11735-Terra-Bella-Lane-SE,-Albuquerque,-NM-87123)            | 2.42        | 2.9         | 2.9     | 2.7      | 2        | 2     | 2       | AVG<3:8 |                                                              |                                 |
 | [pennsylvania](https://www.flexmls.com/share/DXxM7/2908-PENNSYLVANIA-Street-NE,-Albuquerque,-NM-87110)         | 2.0         | 3           | 3.5     | 3        | 3        | 1     | 1       | AVG<3:8 |                                                              |                                 |
 | [Inca - SW](https://www.flexmls.com/share/DXxHV/4119-Inca-Street-NE,-Albuquerque,-NM-87111)                    | 1.9         | 3           | 3       | 1        | 3        | 2.5   | 2       | AVG<3:8 |                                                              |                                 |
+| [8220 Colfax Avenue NE](https://www.flexmls.com/share/DYuRd/8220-Colfax-Avenue-NE,-Albuquerque,-NM-87109)      |             | 3           | 3       | 2        | 3        |       |         |         | I'd like to look at this                                     |                                 |
+|                                                                                                                |             |             |         |          |          |       |         |         |                                                              |                                 |
 
 
