@@ -27,5 +27,3 @@
 | [Inca - SW](https://www.flexmls.com/share/DXxHV/4119-Inca-Street-NE,-Albuquerque,-NM-87111)                    | 1.9         | 3           | 3       | 1        | 3        | 2.5   | 2       | AVG<3:8 |                                                              |                                 |
 
 
-
-https://www.flexmls.com/share/DYdpZ/213-Girard-Boulevard-SE,-Albuquerque,-NM-87106
